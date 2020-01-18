@@ -1,6 +1,7 @@
-username - hlainghpone
+username - hlainghpone2003
 Email - hlainghpone647373@gmail.com
-Password hlainghpone2003
+Password  hlaing2003
+
 
 Step 1 : Git Download
 Step 2 : Git Installation
@@ -16,7 +17,7 @@ First Time (New repository)
 			git init
 			git add  .
 			git config --global user.email "hlainghpone647373@gmail.com"
-			git config --global wser.name "hlainghpone"
+			git config --global user.name "hlainghpone"
 
 			git commit -m "first commit"
 			git remote add orgini https://github.com/brainseeddeveloper/
@@ -24,7 +25,7 @@ First Time (New repository)
 			git push -u origin master
 
 (New Responsitory For New Project)
-			git inti
+			git init
 			git add  .
 			git config global user.email "hlainghpone647373@gmail.com"
 			git config global wser.name "hlainghpone"
