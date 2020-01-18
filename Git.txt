@@ -1,0 +1,49 @@
+username - hlainghpone
+Email - hlainghpone647373@gmail.com
+Password hlainghpone2003
+
+Step 1 : Git Download
+Step 2 : Git Installation
+Step 3 : Github Accout Creation
+Step 4 : Git Repository
+Step 5 : A file  To upload on  github
+Step 6 : Git commed line
+
+
+cd Path - Go to Directory
+
+First Time (New repository)
+			git inti
+			git add  .
+			git config global user.email "hlainghpone647373@gmail.com"
+			git config global wser.name "hlainghpone"
+
+			git commit -m "first commit"
+			git remote add orgini https://github.com/brainseeddeveloper/
+			Sample.git
+			git push -u origin master
+
+(New Responsitory For New Project)
+			git inti
+			git add  .
+			git config global user.email "hlainghpone647373@gmail.com"
+			git config global wser.name "hlainghpone"
+
+			git commit -m "first commit"
+			git remote add orgini https://github.com/brainseeddeveloper/
+			Sample.git
+			git push -u origin master
+
+(Old Repository FOr Exisiting Project)
+			git inti
+			git commit -m "first commit"
+			git push
+
+(Existing Project To other laptop)
+
+			git pull
+
+(Other Person Project To Own Laptop)
+
+			git clone https://github.com/brainseeddeveloper/
+			Samlpe.git
