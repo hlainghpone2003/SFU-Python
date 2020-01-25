@@ -27,8 +27,6 @@ First Time (New repository)
 (New Responsitory For New Project)
 			git init
 			git add  .
-			git config global user.email "hlainghpone647373@gmail.com"
-			git config global wser.name "hlainghpone"
 
 			git commit -m "first commit"
 			git remote add orgini https://github.com/brainseeddeveloper/
