@@ -184,6 +184,11 @@ x is greater than 20
 ...     print("You\'re SFU student")
 ...     if Batch =="3":
 ...             print("Yes, I'm form batch 3")
+					if Gender =="Male"
+						print("I'm boy")
+					else:
+						print("I'm girl")
+
 ...     else:
 ...             print("No, I'm form other batch")
 ... else:
